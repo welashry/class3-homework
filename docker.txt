@@ -1,0 +1,6 @@
+Doker container:
+
+its a tool that developers use to package up apps with all its need (libararies and other features)
+easy to deploy in a cloud
+it can give you instant app portability
+the ability to isolating code into a single container, which makes it easier to modify and update the apps. 
